@@ -1,0 +1,5 @@
+---
+applications:
+ - name: ATM-Locator-UI
+   random-route: true
+   memory: 256M
